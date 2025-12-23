@@ -2,6 +2,10 @@
 
 A production-ready React Native Expo template for building modern cross-platform applications with TypeScript, NativeWind, dark mode support, and comprehensive tooling. Clone and customize to quickly spin up new Expo projects.
 
+<p align="center">
+<img src="./assets/images/screenshot.png" width="300" />
+</p>
+
 ## Features
 
 - ✨ **React Native 0.81** + Expo 54 + React 19
@@ -16,10 +20,6 @@ A production-ready React Native Expo template for building modern cross-platform
 - 🔍 **ESLint + Prettier** - Code quality and formatting
 - 🎯 **Path Aliases** - Clean imports (@ui, @hooks, @store, etc.)
 - 📱 **Multi-platform** - iOS, Android, and Web ready
-
-<p align="center">
-<img src="./assets/images/screenshot.png" width="300" />
-</p>
 
 ## What's Included
 

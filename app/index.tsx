@@ -23,7 +23,7 @@ export default function Index() {
         {/* creator tag */}
         <View className="mt-2 self-center rounded-full bg-accent px-3 py-1">
           <Text variant="body-sm" className="text-white">
-            Created by Ahsan Tariq
+            Created by - <Text className="font-manrope-semibold text-white">Ahsan Tariq</Text>
           </Text>
         </View>
         <Pressable onPress={toggleTheme} className="mt-4 self-center">

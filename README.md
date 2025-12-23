@@ -17,6 +17,10 @@ A production-ready React Native Expo template for building modern cross-platform
 - 🎯 **Path Aliases** - Clean imports (@ui, @hooks, @store, etc.)
 - 📱 **Multi-platform** - iOS, Android, and Web ready
 
+<p align="center">
+<img src="./assets/images/screenshot.png" width="300" />
+</p>
+
 ## What's Included
 
 This template comes with:
